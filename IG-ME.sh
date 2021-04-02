@@ -2,11 +2,11 @@
 #ToolsAzking
 
 clear
-echo  "\033[031mHalo Selamat Datang Di Tools Sederhana Azking Di sini Kalian "
-echo  "\033[031mHarus Subscribe Chanel Azking Terlebih Dahulu Ok"
+echo  "\033[031mHalo Selamat Datang Di Tools Sederhana Santri Cyber Santuy Di sini Kalian "
+echo  "\033[031mHarus Follow Instagram @Akku_Santuy Terlebih Dahulu Ok"
 echo  "\033[034mTools Disini Berisi 5 Tools Ya Namanya Juga Tools Sederhana "
-echo  "\033[035mDisini Secara Otomatis Kalian Akan di Arahkan Ke Youtube"
-echo  "\033[035mUntuk Subscribe Jangan Lupa Aktifkan Loncengnya ok"
+echo  "\033[035mDisini Secara Otomatis Kalian Akan di Arahkan Ke Instagram"
+echo  "\033[035mUntuk Follow Jangan Lupa DM Ntar Gwe Follback Ok"
 sleep 3
 echo  "\033[034m"
 figlet 3
@@ -30,12 +30,12 @@ clear
 echo "\033[036m"
 figlet STAR
 sleep 2
-termux-open-url https://m.youtube.com/channel/UC3JPXLG1E4_-J6P4w6bYUyQ
+termux-open-url https://www.instagram.com/akku_santuy
 sleep 3
 clear
 echo "\033[033m■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■>"
 echo "\033[035m"
-    figlet Tools Azking
+    figlet Santri Cyber
 echo
 echo
 echo
@@ -47,34 +47,34 @@ sleep 3
 echo -n "\033[032musername:"
 read id;
 
-if [ $id = "Azking" ];
+if [ $id = "SANTRI" ];
 then
 sleep 1
-echo "success"
+echo "success cuk"
 sleep 1
 else
 echo "••••••••••••••••••••••••••"
-echo "\033[036mSalah"
-echo "silahkan cek kembali"
+echo "\033[036mSalah cuk"
+echo "silahkan cek kembali cuk"
 sleep 3
 fi
-echo -n "password:"
+echo -n "password-nya cuk:"
 read id;
 
-if [ $id = "Nobar" ];
+if [ $id = "CYBER" ];
 then
 sleep 1
-echo "success"
+echo "success cuk"
 clear
 else
-echo "password salah"
-echo "silahkan kembali"
+echo "password salah cuk"
+echo "silahkan cek kembali cuk"
 sleep 1
 fi
 steep 3
 clear
 echo "\033[031m[\033[037mNOTE*\033[031m]\033[034mSEBELUM MEMULAI ALANGKAH BAIKNYA KALIAN"
-echo "\033[035mINSTALL BAHAN DULU DENGAN CARA MEMILIH NOMOR 4"
+echo "\033[035mINSTALL BAHAN DULU CUK DENGAN CARA MEMILIH NOMOR 4"
 sleep 6
 clear
 echo "\033[034m☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆>"
@@ -112,17 +112,17 @@ echo "\033[032m[3].\033[032mHack Hp Bertarget"
 echo
 echo "\033[032m[4].\033[033mInstall bahan bahan"
 echo
-echo "\033[032m[5].\033[031mSUBSCRIBE \033[037mChanel Admin"
+echo "\033[032m[5].\033[031mFOLLOW INSTAGRAM \033[037mAuthor Santri Cyber"
 echo
 echo
 echo "\033[037m[00].\033[031mKELUAR DARI TOOLS"
 echo
 echo "\033[034m<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
-read -p "[][][]Silahkan Masukan Pilihan Anda[>]"  pilih
+read -p "[][][]Silahkan Masukan Pilihan Kamu Cuk[>]"  pilih
 if [ $pilih = '1' ]
 then
 clear
-echo "\033[032m[*]Mulai Menginstal TOOLS....."
+echo "\033[032m[*]Mulai Menginstal TOOLS Cuk....."
 sleep 3
 pkg update && pkg upgrade
 pkg install php -y
@@ -136,7 +136,7 @@ fi
 if [ $pilih = '2' ]
 then
 clear
-echo "\033[034m[*]Memulai Menginstal Tools......."
+echo "\033[034m[*]Memulai Menginstal Tools Cuk......."
 sleep 3
 pkg update && pkg upgrade
 pkg install python2 -y
@@ -151,7 +151,7 @@ fi
 if [ $pilih = '3' ]
 then
 clear
-echo "\033[034m[*]Memulai Menginstal Tools......."
+echo "\033[034m[*]Memulai Menginstal Tools Cuk......."
 sleep 3
 pkg update && pkg upgrade
 pkg install python2 -y
@@ -164,7 +164,7 @@ fi
 if [ $pilih = '4' ]
 then
 clear
-echo "\033[034m[*]Memulai Menginstal Bahan Bahan......."
+echo "\033[034m[*]Memulai Menginstal Bahan Bahan Cuk......."
 sleep 3
 pkg update && pkg upgrade
 pkg install python2 -y
@@ -175,12 +175,12 @@ pip2 install mechanize
 pip2 install php
 pip2 install requests
 sleep 2
-echo "\033[034m[%]Sedang engakses Memori Internal...."
-echo "\033[034m[*]Jida Di Suruh izinkan Klik izinkan..."
+echo "\033[034m[%]Sedang Mengakses Memori Internal Cuk...."
+echo "\033[034m[*]Jika Di Suruh izinkan Klik izinkan Cuk..."
 sleep 4
 termux-setup-storage
 sleep 4
-echo "\033[036m[*][PENGINSTALAN SELESAI...]"
+echo "\033[036m[*][PENGINSTALAN SELESAI CUK...]"
 sleep 2
 sh tools.sh
 fi
@@ -191,13 +191,12 @@ echo
 echo
 echo
 steep 3
-echo "\033[034m[*] TERIMAKASIH SUDAH MAU SUSCRIBE CHANEL ADMIN [*]"
+echo "\033[034m[*] TERIMAKASIH SUDAH MAU FOLLOW INSTAGRAM ADMIN [*]"
 echo "\033[032m[*] SEMOGA KEBAIKAN KALIAN DI BALAS OLEH TUHAN [*]"
 echo
 echo
 sleep 4
-termux-open-url https://m.youtube.com/channel/UC3JPXLG1E4_-J6P4w6bYUyQ
-sleep 1
+termux-open-url https://www.instagram.com/akku_santuy
 fi
 if [ $pilih = '00' ]
 then
@@ -207,7 +206,7 @@ echo "\033[036m"
    figlet Thanks Sudah Pakai Tools
 echo
 echo
-echo "\033[032m                        JANGAN LUPA SUBSCRIBE CHANEL Azking"
+echo "\033[032m                     JANGAN LUPA FOLLOW INSTAGRAM AKKU_SANTUY"
 echo
 echo "\033[034m[*]..........................................................................[*]"
 sleep 4
