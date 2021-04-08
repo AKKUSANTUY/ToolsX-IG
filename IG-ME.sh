@@ -6,7 +6,7 @@ echo  "\033[031mHalo Selamat Datang Di Tools Sederhana Santri Cyber Santuy Di si
 echo  "\033[031mHarus Follow Instagram @Akku_Santuy Terlebih Dahulu Ok"
 echo  "\033[034mTools Disini Berisi 5 Tools Ya Namanya Juga Tools Sederhana "
 echo  "\033[035mDisini Secara Otomatis Kalian Akan di Arahkan Ke Instagram"
-echo  "\033[035mUntuk Follow Jangan Lupa DM Ntar Gwe Follback Ok"
+echo  "\033[035mUntuk Follow Jangan Lupa DM Ntar Gwe Follback Cuk Ok"
 sleep 3
 echo  "\033[034m"
 figlet 3
